@@ -1,0 +1,22 @@
+{
+    "name": "zainatheme",
+    "displayName": "zainatheme",
+    "description": "vsc theme",
+    "publisher": "zainaweb",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zaina theme cause its zaina ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zaina theme cause its zaina -color-theme.json"
+            }
+        ]
+    }
+}
